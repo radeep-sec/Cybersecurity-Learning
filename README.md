@@ -23,7 +23,7 @@ I want this repository to be a record of my progress, including the things I fin
 
 ## Tools I'm Using
 
-- TryHackMe
+- TryHackMe: https://tryhackme.com/p/RadBad?utm_campaign=social_share&utm_medium=social&utm_content=profile&cardVersion=4125b67ddf4d&utm_source=copy&share_date=2026-11-26&sharerId=6736ade45a96169b6bc5a879
 - GitHub
 - Windows
 
